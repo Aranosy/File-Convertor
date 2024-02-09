@@ -2,7 +2,6 @@
 /**/build/**
 
 *.pdb
-*.txt
 *.ico
 # Prerequisites
 *.d
